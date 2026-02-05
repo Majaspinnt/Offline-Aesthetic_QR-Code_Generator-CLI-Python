@@ -1,0 +1,5 @@
+qrcode[pil]
+Pillow
+segno
+requests
+numpy
