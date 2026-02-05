@@ -7,6 +7,22 @@ Create aesthetic, high-quality, static, animated, gradient, AI-themed, and trans
 **Developed by:** Syed Shaheer Hussain
 **Copyright:** 2026
 
+## 📷 Screenshot
+
+![Screenshot](https://github.com/SyedShaheerHussain/Offline-Aesthetic_QR-Code_Generator-CLI-Python/blob/388c252b38ff32499a1cb44cd2442564135435ac/Offline-Aesthetic_QR-Code_Generator/screenshot/cli%20ss.png)
+
+## 📱 Example QR CODES:
+
+![Example 1](https://github.com/SyedShaheerHussain/Offline-Aesthetic_QR-Code_Generator-CLI-Python/blob/388c252b38ff32499a1cb44cd2442564135435ac/Offline-Aesthetic_QR-Code_Generator/animated.gif)
+
+![Example 2](https://github.com/SyedShaheerHussain/Offline-Aesthetic_QR-Code_Generator-CLI-Python/blob/388c252b38ff32499a1cb44cd2442564135435ac/Offline-Aesthetic_QR-Code_Generator/google.svg)
+
+![Example 2](https://github.com/SyedShaheerHussain/Offline-Aesthetic_QR-Code_Generator-CLI-Python/blob/388c252b38ff32499a1cb44cd2442564135435ac/Offline-Aesthetic_QR-Code_Generator/hq.png)
+
+![Example 2](https://github.com/SyedShaheerHussain/Offline-Aesthetic_QR-Code_Generator-CLI-Python/blob/388c252b38ff32499a1cb44cd2442564135435ac/Offline-Aesthetic_QR-Code_Generator/insta.png)
+
+![Example 2](https://github.com/SyedShaheerHussain/Offline-Aesthetic_QR-Code_Generator-CLI-Python/blob/388c252b38ff32499a1cb44cd2442564135435ac/Offline-Aesthetic_QR-Code_Generator/qr.png)
+
 ## 📚 1. Project Overview
 
 **What is this project?**
